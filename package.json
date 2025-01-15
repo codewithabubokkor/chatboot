@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "dotenv": "^10.0.0",
-        "groq-sdk": "^0.12.0"
+       "groq-sdk": "0.12.0"
     },
     "devDependencies": {
         "vercel": "^28.18.5"
